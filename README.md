@@ -29,12 +29,12 @@ Set launch tracks, examples:
 Google Reference: https://developers.google.com/android-publisher/tracks
 
 ### Status
-<code>"-s", "--status"</code> <b><i>default = "completed<i></b>
+<code>"-s", "--status"</code> <b><i>default = "completed</i></b>
 Project status, examples:
 * "draft"
 * "complete"
 
 ### Release
-<code>"-r", "--release"</code> <b><i>default = False<i></b>
+<code>"-r", "--release"</code> <b><i>default = False</i></b>
 
 Flag to generate release
